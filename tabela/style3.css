@@ -1,0 +1,17 @@
+body {
+font-family: Arial, Helvetica, sans-serif; /*TIPO DA FONTE*/
+
+}
+
+table {
+border-collapse: collapse; /*ELIMINA ESPAÇO ENTRE AS CÉLULAS*/
+width: 300px; /*LARGURA DA TABELA*/
+
+}
+
+td {
+border: 1px solid black; /*ESPESSURA E ESTILO DA BORDA DAS CÉLULAS*/
+padding: 16px; /*DISTÂNCIA ENTRE O CONTEÚDO E AS BORDAS*/
+text-align: center; /*ALINHAMENTO DO TEXTO*/
+
+}

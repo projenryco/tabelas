@@ -1,0 +1,19 @@
+body {
+font-family: Arial, Helvetica, sans-serif; /*TIPO DA FONTE*/
+}
+table {
+border-collapse: collapse; /*ELIMINA ESPAÇO ENTRE AS CÉLULAS*/
+}
+caption {
+font-size: 22px; /*TAMANHO DA FONTE DO TÍTULO DA TABELA*/
+font-weight: bold; /*PESO OU INTENSIDADE DA FONTE*/
+padding: 16px; /*DISTÂNCIA ENTRE O CONTEÚDO E AS BORDAS*/
+}
+th, td{
+border: 1px solid gray; /*ESPESSURA E ESTILO DA BORDA DAS CÉLULAS*/
+padding: 16px; /*DISTÂNCIA ENTRE O CONTEÚDO E AS BORDAS*/
+}
+img{
+height: 50px; /*ALTURA DA TABELA*/
+Width: 75px; /*LARGURA DA TABELA*/
+}
