@@ -15,3 +15,9 @@ padding: 16px; /*DISTÂNCIA ENTRE O CONTEÚDO E AS BORDAS*/
 text-align: center; /*ALINHAMENTO DO TEXTO*/
 
 }
+th {
+    border: 1px solid black; /*ESPESSURA E ESTILO DA BORDA DAS CÉLULAS*/
+    padding: 16px; /*DISTÂNCIA ENTRE O CONTEÚDO E AS BORDAS*/
+    text-align: center; /*ALINHAMENTO DO TEXTO*/
+    
+    }
